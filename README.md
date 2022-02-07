@@ -9,6 +9,7 @@
 - [Elgato Mini Thunderbolt 3 Dock](https://www.elgato.com/en/dock/thunderbolt-3-mini)
 - [Razer Pro Glide Mousepad](https://www.razer.com/gaming-mouse-mats/razer-pro-glide/RZ02-03331500-R3M1)
 - [Logitech Pro 4k Webcam](https://www.logitech.com/en-us/products/webcams/4kprowebcam.960-001390.html)
+- [Autonomous SmartDesk Core](https://www.autonomous.ai/standing-desks/smartdesk-2-home?option1=1&option2=4&option16=37&option17=1881&purchase_method=1)
 
 
 ## Software
