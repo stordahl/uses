@@ -21,6 +21,7 @@
 
 ### CLI Tools (zsh)
 
+- [iTerm2](https://iterm2.com/)
 - [oh-my-zsh](https://ohmyz.sh/)
 - [Pure zsh prompt](https://github.com/sindresorhus/pure)
 - [Homebrew](https://brew.sh/)
