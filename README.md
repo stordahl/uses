@@ -1,4 +1,4 @@
-# uses
+# (⌐□_□) Stuff I Use ᕙ(▀̿ĺ̯▀̿ ̿)ᕗ
 
 ## Hardware
 
