@@ -22,7 +22,7 @@
 
 - [kitty](https://sw.kovidgoyal.net/kitty/)
 - [oh-my-zsh](https://ohmyz.sh/)
-- [Pure zsh prompt](https://github.com/sindresorhus/pure)
+- [Starship prompt](https://github.com/starship/starship)
 - [Homebrew](https://brew.sh/)
 - [neovim](https://github.com/neovim/neovim)
 - [Github CLI](https://cli.github.com/)
