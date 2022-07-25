@@ -14,25 +14,28 @@
 
 ## Software
 
-> If you want to install all of the MacOS software I use day-to-day checkout my install script [here]()!
-
 ### Operating System
 
 - [Mac OS Monteray](https://www.apple.com/macos/monterey/)
 
 ### CLI Tools (zsh)
 
-- [iTerm2](https://iterm2.com/)
+- [kitty](https://sw.kovidgoyal.net/kitty/)
 - [oh-my-zsh](https://ohmyz.sh/)
 - [Pure zsh prompt](https://github.com/sindresorhus/pure)
 - [Homebrew](https://brew.sh/)
-- [Vim](https://www.vim.org/)
+- [neovim](https://github.com/neovim/neovim)
 - [Github CLI](https://cli.github.com/)
-- [Sanity CLI](https://www.sanity.io/docs/getting-started-with-sanity-cli)
-- [Netlify CLI](https://docs.netlify.com/cli/get-started/)
 
 ### GUI Tools
 
-- [VSCode](https://code.visualstudio.com/)
-- [Raycast](https://www.raycast.com/)
+- [Arc](https://thebrowser.company/)
 - [Obsidian](https://obsidian.md/)
+
+### Utilities
+
+- [Raycast](https://www.raycast.com/)
+- [Amethyst](https://ianyh.com/amethyst/)
+- [Xnapper](https://xnapper.com/)
+- [Vivid](https://www.getvivid.app/)
+- [Gifox](https://gifox.io/)
